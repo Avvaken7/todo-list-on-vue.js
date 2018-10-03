@@ -1,1 +1,1 @@
-# todo-list-on-vue.js
+# App toDo List on Vue.JS ver.1.0
